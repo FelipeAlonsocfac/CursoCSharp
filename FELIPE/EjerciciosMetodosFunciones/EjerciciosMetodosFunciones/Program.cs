@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace EjerciciosMetodosFunciones
 {
@@ -106,16 +109,47 @@ namespace EjerciciosMetodosFunciones
             NumeroBilletesMonedas(importe);
             Console.WriteLine($"Para un cambio de {importe}\n");
         }
-        public static void Ej4()
+        public static void Ej4()    
         {
-
+            Console.WriteLine("Dame una letra o un numero y te dire si es vocal, consonante o numero");
+            var caracter = Console.ReadKey();
+            var caracterKey = caracter.KeyChar;
+            if (EsNumero(caracterKey))
+            {
+                Console.WriteLine("Es un numero");
+            }
+            else
+            {
+                if (EsVocal(caracterKey))
+                {
+                    Console.WriteLine("Es una vocal");
+                }
+                else
+                {
+                    Console.WriteLine("Es consonante");
+                }
+            }
         }
         public static void Ej5()
         {
+            Console.WriteLine("Ingrese numero");
+            int numero = int.Parse(Console.ReadLine());
+            Console.WriteLine("*****TABLA DE MULTIPLICAR DEL " + numero + "******");
+            TablaMultiplicar(numero);
 
         }
         public static void Ej6()
         {
+            Console.WriteLine("Escribe numeros para hayar el mayor, menor, su diferencia y la cantidad de numeros");
+            int numero;
+            var listaNumeros = new List<int>();
+            while (( numero = int.Parse(Console.ReadLine()) ) != 0) {
+                listaNumeros.Add(numero);
+            }
+            Console.WriteLine($"El mayor es: {listaNumeros.Max()}");
+            Console.WriteLine($"El menor es: {listaNumeros.Min()}");
+            Console.WriteLine($"la diferencia entre el mayor y el menor es: { (listaNumeros.Max()) - (listaNumeros.Min())}");
+            Console.WriteLine($"La cantidad de numeros introducidos es: {listaNumeros.Count}");
 
         }
         public static string MenuCalculadora() {
@@ -219,6 +253,38 @@ namespace EjerciciosMetodosFunciones
             if (array[12] != 0) Console.Write($"{array[12]} monedas de 5 centimos. ");
             if (array[13] != 0) Console.Write($"{array[13]} monedas de 2 centimos. ");
             if (array[14] != 0) Console.WriteLine($"y {array[14]} monedas de 1 centimo.");
+        }
+        public static bool EsNumero(char letra)
+        {
+            if (letra == '1' || letra == '2' || letra == '3' || letra == '4' ||
+                letra == '5' || letra == '6' || letra == '7' || letra == '8' ||
+                letra == '9' || letra == '0')
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public static bool EsVocal(char letra)
+        {
+            if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u')
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        public static void TablaMultiplicar(int numero) {
+            for (int i = 0; i <= 10; i++)
+            {
+                Console.WriteLine($"{numero} x {i} = {numero*i}");
+            }
+            
         }
     }
 }
