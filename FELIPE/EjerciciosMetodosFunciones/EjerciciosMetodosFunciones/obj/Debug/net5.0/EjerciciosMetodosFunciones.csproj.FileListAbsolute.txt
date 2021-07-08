@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\EjerciciosMetodosFunciones.exe
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\EjerciciosMetodosFunciones.deps.json
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\EjerciciosMetodosFunciones.runtimeconfig.json
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\EjerciciosMetodosFunciones.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\EjerciciosMetodosFunciones.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\ref\EjerciciosMetodosFunciones.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\bin\Debug\net5.0\EjerciciosMetodosFunciones.pdb
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.AssemblyInfo.cs
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\ref\EjerciciosMetodosFunciones.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.pdb
+C:\Users\Garcia Alonso\source\repos\EjerciciosMetodosFunciones\EjerciciosMetodosFunciones\obj\Debug\net5.0\EjerciciosMetodosFunciones.genruntimeconfig.cache
