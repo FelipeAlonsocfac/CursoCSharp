@@ -16,7 +16,7 @@ namespace Seccion5
 
         public static int Menu()
         {
-            Console.Write("Ingrese el punto deseado (1-6)");
+            Console.WriteLine("Ingrese el punto deseado (1-6)");
             return int.Parse(Console.ReadLine());
         }
         public static void SelectorMenu(ref int numeroMenu)
