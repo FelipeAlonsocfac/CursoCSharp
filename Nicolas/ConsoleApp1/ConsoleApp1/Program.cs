@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ingrese el punto preferido:");
             int punto = int.Parse(Console.ReadLine());
 
             switch (punto)
@@ -244,10 +245,46 @@ namespace ConsoleApp1
 
                 case 13:
                     #region Punto 13
+                    Console.WriteLine("Ingrese un numero:");
                     int numeroPrimo = int.Parse(Console.ReadLine());
+                    int iDivisores = 0;
 
+                    for (int i13 = 1; i13 <= numeroPrimo; i13++)
+                    {
+                        if (numeroPrimo % i13 == 0)
+                        {
+                            iDivisores++;
+                        }
+  
+                    }
+                    if (iDivisores==2)
+                    {
+                        Console.WriteLine("Es primo!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("NO es primo!");
+                    }
                     #endregion
                     break;
+
+                case 14:
+                    #region Punto 14
+                    Console.WriteLine("Ingrese un numero:");
+                    int numeroUser = int.Parse(Console.ReadLine());
+                    decimal numeroDividido = numeroUser;
+                    int cifras = 1;
+
+                    while (numeroDividido > 9)
+                    {
+                        numeroDividido = Math.Truncate(numeroDividido / 10);
+                        cifras++;
+                    }
+
+                    Console.WriteLine("El numero tiene: " + cifras + " cifras");
+                    #endregion
+                    break;
+
                 default:
                     break;
             }
