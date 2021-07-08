@@ -179,6 +179,72 @@ namespace ConsoleApp1
 
                 case 11:
                     #region Punto 11
+                    Console.WriteLine("Ingrese un numero del 1 al 7");
+                    int diaSemanaNumero = int.Parse(Console.ReadLine());
+                    String[] diasDeLaSemana = { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo" };
+                    switch (diaSemanaNumero)
+                    {
+                        case 1:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero-1]);
+                            break;
+
+                        case 2:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero - 1]);
+                            break;
+
+                        case 3:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero - 1]);
+                            break;
+
+                        case 4:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero - 1]);
+                            break;
+
+                        case 5:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero - 1]);
+                            break;
+
+                        case 6:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero - 1]);
+                            break;
+
+                        case 7:
+                            Console.WriteLine(diasDeLaSemana[diaSemanaNumero - 1]);
+                            break;
+
+                        default:
+                            break;
+                    }
+                    #endregion
+                    break;
+
+                case 12:
+                    #region Punto 12
+
+                    Console.WriteLine("Ingrese un numero del 1 al 1000");
+                    int numeroUsuario = int.Parse(Console.ReadLine());
+                    int sumatoria = 0;
+
+                    if (numeroUsuario < 1 && numeroUsuario > 1000)
+                    {
+                        Console.WriteLine("Error de rango. Ingrese otro numero");
+                        numeroUsuario = int.Parse(Console.ReadLine());
+                    }
+
+                    for (int i12 = 1; i12 <= numeroUsuario; i12++)
+                    {
+                        sumatoria = sumatoria + i12;
+                    }
+
+                    var media = sumatoria / numeroUsuario;
+                    Console.WriteLine("Sumatoria: " + sumatoria);
+                    Console.WriteLine("Media: " + media);
+                    #endregion
+                    break;
+
+                case 13:
+                    #region Punto 13
+                    int numeroPrimo = int.Parse(Console.ReadLine());
 
                     #endregion
                     break;
