@@ -54,7 +54,14 @@ namespace Seccion5
         }
         public static void Punto1()
         {
+            Console.WriteLine("Escriba tipo de cambio:");
+            float tipoDeCambio = float.Parse(Console.ReadLine());
 
+            Console.WriteLine("Escriba el valor a convertir:");
+            float valorAConvertir = float.Parse(Console.ReadLine());
+
+            float valorConvertido = valorAConvertir * tipoDeCambio;
+            Console.WriteLine("El valor convertido es de: " + valorConvertido);
         }
         public static void Punto2()
         {
