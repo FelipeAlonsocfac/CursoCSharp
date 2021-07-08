@@ -108,7 +108,7 @@ namespace EjerciciosMetodosFunciones
         }
         public static void Ej4()
         {
-
+            Console.WriteLine("Hola");
         }
         public static void Ej5()
         {
