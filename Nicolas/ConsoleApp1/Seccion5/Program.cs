@@ -11,6 +11,7 @@ namespace Seccion5
             while (numeroMenu >= 1 && numeroMenu <= 6)
             {
                 SelectorMenu(ref numeroMenu);
+                numeroMenu = Menu();
             }
         }
 
