@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicolas.Diaz\\OneDrive - Team International Services, Inc\\Desktop\\Practicas .Net\\CursoCSharp\\Nicolas\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Nicolas.Diaz\\OneDrive - Team International Services, Inc\\Desktop\\Practicas .Net\\CursoCSharp\\Nicolas\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas.Diaz\\OneDrive - Team International Services, Inc\\Desktop\\Practicas .Net\\CursoCSharp\\Nicolas\\ConsoleApp1\\ConsoleApp1\\Seccion4.csproj",
+      "projectName": "Seccion4",
+      "projectPath": "C:\\Users\\Nicolas.Diaz\\OneDrive - Team International Services, Inc\\Desktop\\Practicas .Net\\CursoCSharp\\Nicolas\\ConsoleApp1\\ConsoleApp1\\Seccion4.csproj",
       "packagesPath": "C:\\Users\\Nicolas.Diaz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nicolas.Diaz\\OneDrive - Team International Services, Inc\\Desktop\\Practicas .Net\\CursoCSharp\\Nicolas\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
