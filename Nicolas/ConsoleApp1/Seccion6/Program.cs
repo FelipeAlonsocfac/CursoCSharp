@@ -48,7 +48,20 @@ namespace Seccion6
                     break;
             }
         }
-        public static void Punto1() { }
+        public static void Punto1() 
+        {
+            Console.WriteLine("Escribe tu nombre: ");
+            String nombre = Console.ReadLine();
+
+            if (String.Equals(nombre, "alejandro", StringComparison.OrdinalIgnoreCase))
+            {
+                Console.WriteLine("Hola");
+            }
+            else
+            {
+                Console.WriteLine("No te conozco");
+            }
+        }
         public static void Punto2() { }
         public static void Punto3() { }
         public static void Punto4() { }
