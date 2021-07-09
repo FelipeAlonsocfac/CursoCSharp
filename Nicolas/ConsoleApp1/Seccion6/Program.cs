@@ -62,7 +62,14 @@ namespace Seccion6
                 Console.WriteLine("No te conozco");
             }
         }
-        public static void Punto2() { }
+        public static void Punto2() 
+        {
+            Console.WriteLine("Escribe una palabra");
+            char[] palabra = Console.ReadLine().ToCharArray();
+            Array.Reverse(palabra);
+            Console.WriteLine(palabra);
+
+        }
         public static void Punto3() { }
         public static void Punto4() { }
         public static void Punto5() { }
