@@ -68,7 +68,7 @@ namespace EjerciciosColecciones
         public static void Ej2()
         {
             List<string> lista = new List<string>();
-            string item;
+
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Ingrese un Nombre");
