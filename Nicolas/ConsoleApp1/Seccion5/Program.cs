@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Seccion5
@@ -162,14 +163,71 @@ namespace Seccion5
         }
         public static void Punto4()
         {
+            Console.WriteLine("Introduza una letra o numero");
+            char letraNumero = Console.ReadKey().KeyChar;
 
+            if (EsNumero(letraNumero))
+            {
+                Console.WriteLine(" Es numero!");
+            }
+            else if (EsVocal(letraNumero))
+            {
+                Console.WriteLine(" Es vocal!");
+            }
+            else
+            {
+                Console.WriteLine(" Es consonante");
+            }
+
+            static bool EsNumero(char letraNumero)
+            {
+                return char.IsNumber(letraNumero);
+            }
+            static bool EsVocal(char letraNumero)
+            {
+                if (letraNumero == 'a' || letraNumero == 'e' || letraNumero == 'i' || letraNumero == 'o' || letraNumero == 'u') 
+                { 
+                    return true; 
+                }
+                else
+                {
+                    return false;
+                }
+            }
         }
         public static void Punto5()
         {
+            Console.WriteLine("Ingrese un numero:");
+            int numeroUsuario = int.Parse(Console.ReadLine());
+            tablaMultiplicar(numeroUsuario);
 
+            static void tablaMultiplicar(int numero)
+            {
+                for (int i = 0; i < 10; i++)
+                {
+                    Console.WriteLine(numero + " * " + i + " = " + (numero * i));
+                } 
+            }
         }
         public static void Punto6()
         {
+            List<int> numeros = new List<int> ();
+            Console.WriteLine("Ingrese un numero distinto a cero");
+            int numero = int.Parse(Console.ReadLine());
+            
+            while (numero != 0){
+
+                numeros.Add(numero);
+                Console.WriteLine("Ingrese un numero distinto a cero");
+                numero = int.Parse(Console.ReadLine());
+                
+            }
+
+
+            Console.WriteLine("El mayor es: " + numeros.Max());
+            Console.WriteLine("El menor es: " + numeros.Min());
+            Console.WriteLine("Diferencia entre mayor y menor es: " + (numeros.Max() - numeros.Min()));
+            Console.WriteLine("El numero total de elementos es: " + numeros.Count);
 
         }
     }
