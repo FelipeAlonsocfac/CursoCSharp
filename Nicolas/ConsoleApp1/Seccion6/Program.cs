@@ -70,7 +70,43 @@ namespace Seccion6
             Console.WriteLine(palabra);
 
         }
-        public static void Punto3() { }
+        public static void Punto3() 
+        {
+            Console.WriteLine("Ingrese al menos 20 caracteres y 4 palabras");
+            String frase = Console.ReadLine();
+            var fraseSplit = frase.Split();
+
+            if (frase.Length >= 20 && fraseSplit.Length >= 4)
+            {
+                Console.WriteLine(frase.Length + " de longitud");
+                
+                String fraseAXM = frase.Replace("a", "x");
+                fraseAXM = fraseAXM.Replace("A", "X");
+                Console.WriteLine(fraseAXM);
+
+                Console.WriteLine(frase.ToUpper());
+                Console.WriteLine(frase.ToLower());
+
+                String frase03 = frase.Remove(0, 3);
+                Console.WriteLine(frase03);
+
+                String frase510 = frase.Substring(5, 5);
+                Console.WriteLine(frase510);
+
+                char[] fraseArray = frase.ToCharArray();
+                Array.Reverse(fraseArray);
+                Console.WriteLine(fraseArray);
+
+                Console.WriteLine(fraseSplit.Length + " palabras");
+                
+                Console.WriteLine(fraseSplit[2]);
+            }
+            else{
+                Console.WriteLine("Frase incorrecta");
+            }
+
+
+        }
         public static void Punto4() { }
         public static void Punto5() { }
     }
