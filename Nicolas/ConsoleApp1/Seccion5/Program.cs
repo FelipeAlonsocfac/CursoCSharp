@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Seccion5
 {
@@ -123,26 +124,39 @@ namespace Seccion5
         public static void Punto3()
         {
             double[] valoresBilletes = new double[] { 100000, 50000, 20000, 10000, 5000, 2000, 1000 };
-            double[] valoresMonedas = new double[] { 500, 200, 100 };
+            double[] valoresMonedas = new double[] { 500, 200, 100, 50 };
             Console.WriteLine("Ingrese importe:");
             int importeInicial = int.Parse(Console.ReadLine());
             
             double importe = importeInicial;
-            Console.WriteLine(CalcularBilletes(ref importe, valoresBilletes));
-            Console.WriteLine(importe);
+            Console.WriteLine(CalcularBilletes(ref importe, valoresBilletes) + " billetes");
+            Console.WriteLine(CalcularMonedas(ref importe, valoresMonedas) + " monedas");
+            Console.WriteLine(importe+ " restante");
             //CalcularMonedas(ref importe);
 
             static double CalcularBilletes(ref double importe, double[] valoresMoneda)
             {
-                double numeroBilletes = 0;
+                double[] numeroBilletes = new double[7] { 0, 0, 0, 0, 0, 0, 0 };
                 
                 for (int iBilletes = 0; importe >= valoresMoneda[valoresMoneda.Length-1]; iBilletes++)
                 {
-                    numeroBilletes += Math.Floor(importe / valoresMoneda[iBilletes]);
-                    importe -= numeroBilletes * valoresMoneda[iBilletes];
+                    numeroBilletes[iBilletes] += Math.Floor(importe / valoresMoneda[iBilletes]);
+                    importe -= numeroBilletes[iBilletes] * valoresMoneda[iBilletes];
                 }
-                
-                return numeroBilletes;
+
+                return numeroBilletes.Sum();
+            }
+            static double CalcularMonedas(ref double importe, double[] valoresMoneda)
+            {
+                double[] numeroMonedas = new double[4] { 0, 0, 0, 0 };
+
+                for (int iMonedas = 0; importe >= valoresMoneda[valoresMoneda.Length - 1]; iMonedas++)
+                {
+                    numeroMonedas[iMonedas] += Math.Floor(importe / valoresMoneda[iMonedas]);
+                    importe -= numeroMonedas[iMonedas] * valoresMoneda[iMonedas];
+                }
+
+                return numeroMonedas.Sum();
             }
 
         }
