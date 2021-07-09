@@ -1,0 +1,16 @@
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\Seccion7.exe
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\Seccion7.deps.json
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\Seccion7.runtimeconfig.json
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\Seccion7.runtimeconfig.dev.json
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\Seccion7.dll
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\ref\Seccion7.dll
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\bin\Debug\net5.0\Seccion7.pdb
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.csproj.AssemblyReference.cache
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.AssemblyInfoInputs.cache
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.AssemblyInfo.cs
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.dll
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\ref\Seccion7.dll
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.pdb
+C:\Users\Nicolas.Diaz\OneDrive - Team International Services, Inc\Desktop\Practicas .Net\CursoCSharp\Nicolas\ConsoleApp1\Seccion7\obj\Debug\net5.0\Seccion7.genruntimeconfig.cache

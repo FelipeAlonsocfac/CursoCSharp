@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Seccion7
 {
@@ -49,8 +50,25 @@ namespace Seccion7
             }
         }
 
-        public static void Punto1() { }
-        public static void Punto2() { }
+        public static void Punto1() 
+        {
+            List<int> lista = new List<int>();
+
+            for (int i = 1; i <= 1000; i++)
+            {
+                lista.Add(i);
+            }
+            int suma = 0;
+            foreach (var item in lista)
+            {
+                suma += item;
+                Console.WriteLine(suma);
+            }
+        }
+        public static void Punto2() 
+        {
+            
+        }
         public static void Punto3() { }
         public static void Punto4() { }
         public static void Punto5() { }
