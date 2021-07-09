@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\EjerciciosIntroduccionCSharp.exe
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\EjerciciosIntroduccionCSharp.deps.json
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\EjerciciosIntroduccionCSharp.runtimeconfig.json
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\EjerciciosIntroduccionCSharp.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\EjerciciosIntroduccionCSharp.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\ref\EjerciciosIntroduccionCSharp.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\bin\Debug\net5.0\EjerciciosIntroduccionCSharp.pdb
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.AssemblyInfo.cs
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\ref\EjerciciosIntroduccionCSharp.dll
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.pdb
+C:\Users\Garcia Alonso\source\repos\EjerciciosIntroduccionCSharp\EjerciciosIntroduccionCSharp\obj\Debug\net5.0\EjerciciosIntroduccionCSharp.genruntimeconfig.cache

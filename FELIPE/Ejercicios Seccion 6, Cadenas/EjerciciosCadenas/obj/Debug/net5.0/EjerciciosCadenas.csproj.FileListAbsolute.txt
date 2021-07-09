@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\EjerciciosCadenas.exe
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\EjerciciosCadenas.deps.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\EjerciciosCadenas.runtimeconfig.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\EjerciciosCadenas.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\EjerciciosCadenas.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\ref\EjerciciosCadenas.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\bin\Debug\net5.0\EjerciciosCadenas.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.AssemblyInfo.cs
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\ref\EjerciciosCadenas.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 6, Cadenas\EjerciciosCadenas\obj\Debug\net5.0\EjerciciosCadenas.genruntimeconfig.cache

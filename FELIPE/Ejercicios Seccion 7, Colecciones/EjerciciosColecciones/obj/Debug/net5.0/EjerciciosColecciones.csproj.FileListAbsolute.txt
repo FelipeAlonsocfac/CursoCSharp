@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\EjerciciosColecciones.exe
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\EjerciciosColecciones.deps.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\EjerciciosColecciones.runtimeconfig.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\EjerciciosColecciones.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\EjerciciosColecciones.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\ref\EjerciciosColecciones.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\bin\Debug\net5.0\EjerciciosColecciones.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.AssemblyInfo.cs
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\ref\EjerciciosColecciones.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\Ejercicios Seccion 7, Colecciones\EjerciciosColecciones\obj\Debug\net5.0\EjerciciosColecciones.genruntimeconfig.cache
