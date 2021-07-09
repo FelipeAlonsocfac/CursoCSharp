@@ -136,7 +136,31 @@ namespace Seccion7
             Console.WriteLine("El numero mayor es:" + lista4.Max());
             Console.WriteLine("El numero menor es:" + lista4.Min());
         }
-        public static void Punto5() { }
+        public static void Punto5() 
+        {
+            List<int> lista5 = new List<int>();
+            Console.WriteLine("Ingrese numero de datos a añadir:");
+            int numeroDatos = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < numeroDatos; i++)
+            {
+                Console.WriteLine("Ingrese un numero");
+                lista5.Add(int.Parse(Console.ReadLine()));
+            }
+
+            Console.WriteLine("Ingrese valor a añadir:");
+            int valorAnadir = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese posicion del valor a añadir:");
+            int posValor = int.Parse(Console.ReadLine());
+
+            lista5.Insert(posValor, valorAnadir);
+
+            foreach (var item in lista5)
+            {
+                Console.WriteLine(item);
+            }
+        }
 
     }
 }
