@@ -123,7 +123,19 @@ namespace Seccion7
             Console.WriteLine("La suma de los impares es: " + lista3Impares.Sum());
 
         }
-        public static void Punto4() { }
+        public static void Punto4() 
+        {
+            List<int> lista4 = new List<int>();
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Ingrese un numero");
+                lista4.Add(int.Parse(Console.ReadLine()));
+            }
+
+            Console.WriteLine("El numero mayor es:" + lista4.Max());
+            Console.WriteLine("El numero menor es:" + lista4.Min());
+        }
         public static void Punto5() { }
 
     }
