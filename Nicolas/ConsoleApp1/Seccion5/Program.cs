@@ -122,6 +122,28 @@ namespace Seccion5
         }
         public static void Punto3()
         {
+            double[] valoresBilletes = new double[] { 100000, 50000, 20000, 10000, 5000, 2000, 1000 };
+            double[] valoresMonedas = new double[] { 500, 200, 100 };
+            Console.WriteLine("Ingrese importe:");
+            int importeInicial = int.Parse(Console.ReadLine());
+            
+            double importe = importeInicial;
+            Console.WriteLine(CalcularBilletes(ref importe, valoresBilletes));
+            Console.WriteLine(importe);
+            //CalcularMonedas(ref importe);
+
+            static double CalcularBilletes(ref double importe, double[] valoresMoneda)
+            {
+                double numeroBilletes = 0;
+                
+                for (int iBilletes = 0; importe >= valoresMoneda[valoresMoneda.Length-1]; iBilletes++)
+                {
+                    numeroBilletes += Math.Floor(importe / valoresMoneda[iBilletes]);
+                    importe -= numeroBilletes * valoresMoneda[iBilletes];
+                }
+                
+                return numeroBilletes;
+            }
 
         }
         public static void Punto4()
