@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Seccion6
 {
@@ -107,7 +108,27 @@ namespace Seccion6
 
 
         }
-        public static void Punto4() { }
-        public static void Punto5() { }
+        public static void Punto4() 
+        {
+            Console.WriteLine("Escriba primer numero");
+            String numero1 = Console.ReadLine();
+            Console.WriteLine("Escriba segundo numero");
+            String numero2 = Console.ReadLine();
+            Console.WriteLine("Escriba tercer numero");
+            String numero3 = Console.ReadLine();
+            Console.WriteLine("Escriba cuarto numero");
+            String numero4 = Console.ReadLine();
+
+            StringBuilder sb = new StringBuilder($"El primer numero introducido es el {numero1} , despues han introducido el {numero2} y {numero3} y por ultimo el {numero4}");
+            Console.WriteLine(sb);
+        }
+        public static void Punto5() 
+        {
+            for (int i = 90; i >= 65; i--)
+            {
+                Console.Write((char)i + " ");
+            }
+            Console.WriteLine();
+        }
     }
 }
