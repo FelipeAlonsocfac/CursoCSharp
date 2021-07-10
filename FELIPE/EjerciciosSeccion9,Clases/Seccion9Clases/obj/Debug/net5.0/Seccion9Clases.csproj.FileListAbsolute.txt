@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\Seccion9Clases.exe
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\Seccion9Clases.deps.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\Seccion9Clases.runtimeconfig.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\Seccion9Clases.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\Seccion9Clases.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\ref\Seccion9Clases.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\bin\Debug\net5.0\Seccion9Clases.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.AssemblyInfo.cs
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\ref\Seccion9Clases.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion9,Clases\Seccion9Clases\obj\Debug\net5.0\Seccion9Clases.genruntimeconfig.cache
