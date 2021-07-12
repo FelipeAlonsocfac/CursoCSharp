@@ -141,23 +141,65 @@ namespace Seccion9Clases
         }
         public static void Ej3()
         {
+            Avion avion = new Avion();
+            Barco barco = new Barco();
+            Coche coche = new Coche();
 
-
+            Console.WriteLine($"El consumo por kilometro del avion es de: {avion.Consumo()}, el del barco es de: {barco.Consumo()} y " +
+                              $" el del coche es de {coche.Consumo()}");
+            Console.WriteLine($"Al preguntar si el vehiculo tiene ruedas, tenemos que: \n" +
+                              $" Avion: {avion.TieneRuedas()}\n" +
+                              $" Barco: {barco.TieneRuedas()}\n" +
+                              $" Coche: {coche.TieneRuedas()}");
+            Console.WriteLine($"La velocidad maxima de cada vehiculo en km/h es de:\n" +
+                              $" Avion: {avion.VelocidadMax()}\n" +
+                              $" Barco: {barco.VelocidadMax()}\n" +
+                              $" Coche: {coche.VelocidadMax()}");
         }
         public static void Ej4()
         {
-
-
+            Vehiculo_ej4 vehiculo1 = new Vehiculo_ej4(); 
+            Vehiculo_ej4 vehiculo2 = new Vehiculo_ej4(2); 
+            Vehiculo_ej4 vehiculo3 = new Vehiculo_ej4(12, 2);
+            Console.WriteLine($"El primer vehiculo tiene: {vehiculo1.ruedas} ruedas y {vehiculo1.puertasPrivadas} puertas\n" +
+                              $" El segundo vehiculo tiene: {vehiculo2.ruedas} ruedas y {vehiculo2.puertasPrivadas} puertas\n" +
+                              $"  El tercer vehiculo tiene: {vehiculo3.ruedas} ruedas y {vehiculo3.puertasPrivadas} puertas\n");
         }
         public static void Ej5()
         {
-
+            Console.WriteLine($"La suma de 213 mas 12321 da {Producto.Suma(213, 12321)}");
 
         }
         public static void Ej6()
         {
 
+            Animal animal1 = new Animal
+            {
+                Tipo = "Perro",
+                ColorPelo = "Miel",
+                EsDomestico = true,
+                NumeroPatas = 4
+            };
 
+            Animal animal2 = new Animal
+            {
+                Tipo = "Tarantula",
+                ColorPelo = "Negro",
+                EsDomestico = true,
+                NumeroPatas = 8
+                
+            };
+            Console.WriteLine("\nAnimal 1:");
+            RecorrerAnimal(animal1);
+            Console.WriteLine("\nAnimal 2:");
+            RecorrerAnimal(animal2);
+
+            void RecorrerAnimal(Animal animal) {
+                Console.WriteLine($"Tipo de animal: {animal.Tipo}\n" +
+                                  $"Color de pelo: {animal.ColorPelo}\n" +
+                                  $"Es domestico?: {animal.EsDomestico}\n" +
+                                  $"# de patas: {animal.NumeroPatas}\n");
+            }
         }
     }
 }
