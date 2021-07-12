@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\EjerciciosSeccion10.exe
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\EjerciciosSeccion10.deps.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\EjerciciosSeccion10.runtimeconfig.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\EjerciciosSeccion10.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\EjerciciosSeccion10.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\ref\EjerciciosSeccion10.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\bin\Debug\net5.0\EjerciciosSeccion10.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.AssemblyInfo.cs
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\ref\EjerciciosSeccion10.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion10,Interfaces\EjerciciosSeccion10\obj\Debug\net5.0\EjerciciosSeccion10.genruntimeconfig.cache
