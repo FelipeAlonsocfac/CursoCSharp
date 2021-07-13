@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\EjerciciosSeccion11.exe
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\EjerciciosSeccion11.deps.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\EjerciciosSeccion11.runtimeconfig.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\EjerciciosSeccion11.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\EjerciciosSeccion11.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\ref\EjerciciosSeccion11.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\bin\Debug\net5.0\EjerciciosSeccion11.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.AssemblyInfo.cs
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\ref\EjerciciosSeccion11.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion11,ConceptosAvanzados\EjerciciosSeccion11\obj\Debug\net5.0\EjerciciosSeccion11.genruntimeconfig.cache
