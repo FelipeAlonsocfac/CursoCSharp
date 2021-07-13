@@ -1,0 +1,16 @@
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.csproj.AssemblyReference.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.AssemblyInfoInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.AssemblyInfo.cs
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.csproj.CoreCompileInputs.cache
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\EjerciciosStreams.exe
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\EjerciciosStreams.deps.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\EjerciciosStreams.runtimeconfig.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\EjerciciosStreams.runtimeconfig.dev.json
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\EjerciciosStreams.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\ref\EjerciciosStreams.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\bin\Debug\net5.0\EjerciciosStreams.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\ref\EjerciciosStreams.dll
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.pdb
+C:\Users\Garcia Alonso\Desktop\GITHUB\CursoCSharp\FELIPE\EjerciciosSeccion13,ArchivosStreams\EjerciciosStreams\obj\Debug\net5.0\EjerciciosStreams.genruntimeconfig.cache
