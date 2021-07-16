@@ -17,10 +17,16 @@ namespace EjemploEntityFrameworkCore.Contexto
         }
 
         public DbSet<Cancion> Canciones{get; set;}  //nombre con el que se va a crear mi tabla
+        public DbSet<Album> Albumes { get; set; }
+        public DbSet<Autor> Autores { get; set; }
+
 
         protected  override void OnModelCreating(ModelBuilder modelBuilder) {
 
             CancionEntityConfig.SetCancionEntityConfig(modelBuilder.Entity<Cancion>());
+
+
+
             //modelBuilder.Entity<Cancion>().ToTable("Canciones"); //asi tambien se pone el nombre que va a tener mi tabla
 
             
