@@ -9,7 +9,9 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace openapi.ejemplo
@@ -30,7 +32,25 @@ namespace openapi.ejemplo
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "openapi.ejemplo", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "openapi.ejemplo", 
+                                                     Version = "v1",
+                                                     TermsOfService = new Uri("https://example.com/terms"),
+                                                     Contact = new OpenApiContact {
+                                                        Name = "Felipe Alonso",
+                                                        Email = "xfelipe98@gmail.com",
+                                                        Url = new Uri("https://example.com/contact"),
+                                                     },
+                                                     License = new OpenApiLicense {
+                                                        Name = "FelipeLicense",
+                                                        Url = new Uri("https://example.com/license"),
+                                                     }
+                });    //en swaggerDoc se puede poner tambien contacto, licencia o un link a los terminos de servicio
+                //para añadir un xml file, nos vamos al proyecto y en build seleccionamos la casilla de añadir xml
+                //y se añade asi:
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml"; //con esto se obtiene el nombre del ensamblado .xml
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);  //coge la ruta donde esta el documento y el xmlfile que es el nombre del archivo.
+                c.IncludeXmlComments(xmlPath);  //uso el middleware de incluir los comentarios xml del path donde genera esos comentarios
+                //con esto ya podemos incluir comentarios con xml
             });
         }
 
