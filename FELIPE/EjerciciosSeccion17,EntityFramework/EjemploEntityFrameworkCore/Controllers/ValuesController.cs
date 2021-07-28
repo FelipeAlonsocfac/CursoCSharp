@@ -30,14 +30,14 @@ namespace EjemploEntityFrameworkCore.Controllers
                 Titulo = "Asereje"
             });
 
-            var canciones = _cancionService.GetCanciones();
+            //var canciones = _cancionService.GetCanciones();
 
-            var cancion = _cancionService.GetCancion(1);
+            //var cancion = _cancionService.GetCancion(1);
 
-            cancion.Descripcion = "Entidad cambiada";
+            //cancion.Descripcion = "Entidad cambiada";
 
-            _cancionService.UpdateCancion(cancion);
-            _cancionService.DeleteCancion(2);
+            //_cancionService.UpdateCancion(cancion);
+            //_cancionService.DeleteCancion(2);
 
             return new string[] { "value1", "value2" };
         }

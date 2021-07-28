@@ -10,6 +10,6 @@ namespace EjemploEntityFrameworkCore.Models
 
         public int AutorId { get; set; }
         public string Nombre { get; set; }
-        public Cancion Cancion { get; set; }
+        //public Cancion Cancion { get; set; }
     }
 }
